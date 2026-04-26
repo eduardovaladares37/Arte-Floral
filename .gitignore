@@ -19,3 +19,6 @@ npm-debug.log*
 
 # Brand reference (não publicar)
 sarah_deck_brand_identity*.html
+
+# Conteúdo executivo do Eduardo (vazou de outra rotina)
+briefings/
